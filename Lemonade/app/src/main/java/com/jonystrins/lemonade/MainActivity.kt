@@ -74,12 +74,6 @@ fun LemonApp(){
                     Text(
                         text = stringResource(id = R.string.keep_tapping_the_lemon)
                     )
-                    Text(
-                        text = "${rand}"
-                    )
-                    Text(
-                        text = "${cont}"
-                    )
                     Spacer(modifier = Modifier.height(16.dp))
                     Image(
                         painter = painterResource(id = R.drawable.lemon_squeeze),
