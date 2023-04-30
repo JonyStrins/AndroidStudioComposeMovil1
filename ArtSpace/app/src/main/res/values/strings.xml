@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="primer_titulo">Ghost Rider</string>
+    <string name="primer_anio">2007</string>
+    <string name="segundo_titulo">God Of War</string>
+    <string name="segundo_anio">2005</string>
+    <string name="tercer_titulo">God of war II</string>
+    <string name="tercer_anio">2007</string>
+    <string name="cuarto_anio">2003</string>
+    <string name="cuarto_titulo">Manhunt</string>
+    <string name="quinto_titulo">Grand Theft Auto San Andreas</string>
+    <string name="quinto_anio">2004</string>
+
+</resources>
